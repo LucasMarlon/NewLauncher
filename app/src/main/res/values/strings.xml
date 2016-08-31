@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Launcher</string>
+    <string name="action_settings">Settings</string>
+    <string name="news_picture">News picture</string>
+    <string name="dots_picture">Dots picture</string>
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">Play Next</string>
+</resources>
